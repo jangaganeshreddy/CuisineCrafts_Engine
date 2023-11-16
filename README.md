@@ -42,11 +42,19 @@
 
 
 ## Screenshots
-![Alt text](Arabic_menu_items.png)
+![Arabic_menu_items](https://github.com/jangaganeshreddy/CuisineCrafts_Engine/assets/79239843/a78bf132-fd85-4c7a-baa4-917463f0d542)
 
-![Alt text](Indian_menu_items.png)
 
-![Alt text](Italian_menu_items.png)
+
+
+![Indian_menu_items](https://github.com/jangaganeshreddy/CuisineCrafts_Engine/assets/79239843/438546d9-63c3-4355-aa2e-0c24e2081465)
+
+
+
+
+
+![Italian_menu_items](https://github.com/jangaganeshreddy/CuisineCrafts_Engine/assets/79239843/9734bbf5-fdcb-43d7-8949-1e638ab5e91e)
+
 
 # Check Implementation here
 https://www.youtube.com/watch?v=9N_Hn_D75dc
